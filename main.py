@@ -70,4 +70,4 @@ async def check(ctx):
     
 
 
-bot.run("MTE1NDgwMjgxMTg4NDc5ODA3NA.GbgiEM.Ivk2itUfkNHo3i4zW7gulT4Xy4xht_uctioUG4")
+bot.run("TOKEN")    
